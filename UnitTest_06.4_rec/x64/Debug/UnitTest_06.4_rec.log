@@ -1,0 +1,7 @@
+﻿  UnitTest_06.4_rec.cpp
+C:\Users\VITUK\source\repos\lab_06.4_rec\lab_06.4_rec\lab_06.4_rec.cpp(106,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest_06.4_rec.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.4_rec\lab_06.4_rec\lab_06.4_rec.cpp(31,1): warning C4715: 'min_index': not all control paths return a value
+     Creating library C:\Users\VITUK\source\repos\lab_06.4_rec\x64\Debug\UnitTest_06.4_rec.lib and object C:\Users\VITUK\source\repos\lab_06.4_rec\x64\Debug\UnitTest_06.4_rec.exp
+  UnitTest_06.4_rec.vcxproj -> C:\Users\VITUK\source\repos\lab_06.4_rec\x64\Debug\UnitTest_06.4_rec.dll

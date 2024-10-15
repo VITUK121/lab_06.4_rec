@@ -1,0 +1,4 @@
+﻿  lab_06.4_rec.cpp
+C:\Users\VITUK\source\repos\lab_06.4_rec\lab_06.4_rec\lab_06.4_rec.cpp(106,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VITUK\source\repos\lab_06.4_rec\lab_06.4_rec\lab_06.4_rec.cpp(31,1): warning C4715: 'min_index': not all control paths return a value
+  lab_06.4_rec.vcxproj -> C:\Users\VITUK\source\repos\lab_06.4_rec\x64\Debug\lab_06.4_rec.exe
